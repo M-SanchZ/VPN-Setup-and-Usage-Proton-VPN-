@@ -111,8 +111,7 @@ Before starting, make sure you have:
 3. Save this IP address in the same text file for later comparison.
    <h2> Previous IPv4 Address</h2>
 
-    ![image](https://github.com/user-attachments/assets/ce69d9e9-c0e1-48fa-815c-c6b930f690d7)
-   
+    ![image](https://github.com/user-attachments/assets/68e30a44-27e3-44c6-b741-6ea294361d10)  
 
 
    <h2> New IPv4 Address after using VPN</h2>
