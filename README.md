@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/8653a0cb-e838-4d5d-88a4-5a23e613dbf6)
+![image](https://github.com/user-attachments/assets/feee8834-9801-464f-9df5-33025fc6e6d0)
+
 
 # **Setting Up a Virtual Machine in Azure and Testing VPN Connection**
 
