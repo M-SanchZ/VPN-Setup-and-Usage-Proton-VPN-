@@ -77,7 +77,7 @@ Before starting, make sure you have:
    ![image](https://github.com/user-attachments/assets/1020a32f-7f04-419b-81c0-dce34c497f71)
    ![image](https://github.com/user-attachments/assets/3b5a5620-e7bd-4973-915b-e41c618db0a1)
    ![image](https://github.com/user-attachments/assets/40330f62-a2b9-4506-93f3-a0001f723718)
-   ![image](https://github.com/user-attachments/assets/cc230647-8847-42a5-aa8c-805e05bab383)
+   ![image](https://github.com/user-attachments/assets/234abc37-4d7c-4e1b-8c49-a9c671b8339c)
    ![image](https://github.com/user-attachments/assets/1cec4150-e1c1-4acc-8e3b-2f78a01864f7)
 
 
