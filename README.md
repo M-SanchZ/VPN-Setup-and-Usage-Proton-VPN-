@@ -33,6 +33,9 @@ Before starting, make sure you have:
 3. Click **+ Create** to create a new resource group.
 4. Enter a name for the resource group (e.g., `MyResourceGroup`) and choose a region that is closest to your physical location.
 5. Click **Review + Create**, then click **Create** to finalize the resource group creation.
+    ![image](https://github.com/user-attachments/assets/e64c7ad1-fda9-411b-a097-6362ee1ee399)
+   ![image](https://github.com/user-attachments/assets/f32166d0-0d25-45a7-80c9-864ec8f88983)
+  ![image](https://github.com/user-attachments/assets/ce69d9e9-c0e1-48fa-815c-c6b930f690d7)
 
 ### 1.3 Create a Windows 10 Virtual Machine (VM) in Another Geographic Location
 1. In the Azure portal, go to **Virtual Machines** in the left-hand menu.
