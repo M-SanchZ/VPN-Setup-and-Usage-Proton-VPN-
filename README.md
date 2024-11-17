@@ -34,7 +34,72 @@ Before starting, make sure you have:
    - Under **Public IP**, ensure it's set to **Static**.
 5. Click **Review + Create**, then click **Create** to deploy the VM.
 
-### 1.4 Log into the Virtual Ma
+### 1.4 Log into the Virtual Machine Using Remote Desktop (RDP)
+1. Once the VM is deployed, go to the **Overview** tab of the VM.
+2. Click on the **Connect** button and choose **RDP** to download the RDP file.
+3. Open the downloaded RDP file, then enter the **username** and **password** you set during the VM creation process to log in.
+
+### 1.5 Browse to WhatIsMyIP on the VM
+1. Once logged into the VM, open a web browser inside the VM and go to [https://whatismyipaddress.com/](https://whatismyipaddress.com/).
+2. Note the public IP address displayed here. Copy it and save it in the same text file used earlier for comparison.
+
+---
+
+## **Step 2: Sign Up for ProtonVPN and Test the VPN Connection**
+
+### 2.1 Sign Up for ProtonVPN (On Your Local Machine)
+1. Visit [ProtonVPN Signup](https://account.protonvpn.com/signup?plan=free&language=en) on your local machine.
+2. Follow the instructions to sign up for a free ProtonVPN account.
+3. Once signed up, note your credentials (username and password) for logging in.
+
+### 2.2 Download and Install ProtonVPN on the Virtual Machine
+1. On your VM, open a web browser and visit [ProtonVPN Downloads](https://protonvpn.com/download).
+2. Download and install the ProtonVPN client for **Windows**.
+3. After installation, launch ProtonVPN on the VM.
+
+### 2.3 Log In and Connect to a VPN Server in a Different Country
+1. Open ProtonVPN and log in with the credentials you created in Step 2.1.
+2. Choose a VPN server located in a different country, such as Japan.
+3. Click **Connect** to establish the VPN connection.
+
+### 2.4 Browse to WhatIsMyIP on the VM (While Connected to the VPN)
+1. With ProtonVPN connected, open a web browser in the VM and visit [https://whatismyipaddress.com/](https://whatismyipaddress.com/).
+2. Take note of the new public IP address, which should reflect the location of the VPN server you connected to (e.g., Japan).
+3. Save this IP address in the same text file for later comparison.
+
+### 2.5 Test Browsing Behavior with the VPN
+1. Try visiting websites like [Google](https://www.google.com/), [Disney](https://www.disney.com/), or [Amazon](https://www.amazon.com/) while connected to the VPN.
+2. Note any differences you observe in the website’s language, layout, or URL based on the location of the VPN server. For example:
+   - You may be redirected to a **localized version** of Google (e.g., google.jp if you’re connected to a Japanese server).
+   - The language of the website may automatically change to the country’s native language (e.g., Japanese, French, etc.).
+
+---
+
+## **Step 3: Clean Up Azure Resources**
+
+### 3.1 Delete the Resource Group
+1. Go back to the **Azure Portal** and navigate to **Resource Groups**.
+2. Select the resource group you created earlier (e.g., `MyResourceGroup`).
+3. Click on the **Delete** button.
+4. Confirm the deletion by typing the name of the resource group and clicking **Delete**.
+
+### 3.2 Verify Deletion of Resources
+1. Once the resource group has been deleted, make sure all resources, including the VM and associated components (e.g., networking resources), have been removed from your Azure subscription.
+2. This will prevent any further charges for resources that are no longer in use.
+
+---
+
+## **Conclusion**
+In this tutorial, you have:
+- Created a Windows 10 VM in Azure located in a different geographic region.
+- Used ProtonVPN to connect to a server in another country and tested website behavior based on your VPN location.
+- Cleaned up your Azure resources to avoid ongoing charges.
+
+By following these steps, you now have a practical understanding of managing resources in Azure and using a VPN for testing geographical variations in browsing behavior.
+
+---
+
+Feel free to **fork** this repository and add your own experiences or improvements!
 
 
 
