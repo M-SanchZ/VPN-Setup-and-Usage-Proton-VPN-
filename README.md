@@ -118,6 +118,11 @@ Before starting, make sure you have:
 
    ![image](https://github.com/user-attachments/assets/fc6e2324-e1e0-4cdc-92f5-9c45caeb8841)
 
+   <h2> Connected to New VPN location within VM</H2>
+   
+   ![image](https://github.com/user-attachments/assets/4abfd483-1589-49f2-8c2e-ee863f793a76)
+
+
 ### 2.5 Test Browsing Behavior with the VPN
 1. Try visiting websites like [Google](https://www.google.com/), [Disney](https://www.disney.com/), or [Amazon](https://www.amazon.com/) while connected to the VPN.
 2. Note any differences you observe in the website’s language, layout, or URL based on the location of the VPN server. For example:
