@@ -6,18 +6,18 @@ This tutorial will guide you through the process of setting up a VPN, and ensuri
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- VPN
+- ProtonVPN 
 - Remote Desktop
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10 Pro (22H2)
-- ProtonVPN 
 
 <h2> Configuration Objectives</h2>
 
 - Create a Resource Group
 - Create a Windows 10 Virtual Machine in another geographic location (try a different country)
 - Sign up for ProtonVPN and test the VPN connection
+
 
 
