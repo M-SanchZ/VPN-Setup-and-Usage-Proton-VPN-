@@ -76,6 +76,8 @@ Before starting, make sure you have:
 3. After installation, launch ProtonVPN on the VM.
    ![image](https://github.com/user-attachments/assets/1020a32f-7f04-419b-81c0-dce34c497f71)
    ![image](https://github.com/user-attachments/assets/3b5a5620-e7bd-4973-915b-e41c618db0a1)
+   ![image](https://github.com/user-attachments/assets/40330f62-a2b9-4506-93f3-a0001f723718)
+
 
 
 
