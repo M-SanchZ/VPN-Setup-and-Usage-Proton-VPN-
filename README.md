@@ -9,6 +9,8 @@ Before starting, make sure you have:
 - An Azure account (Sign up at [Azure](https://azure.microsoft.com/)).
 - A ProtonVPN account (Sign up for the free version at [ProtonVPN](https://account.protonvpn.com/signup?plan=free&language=en)).
   ![image](https://github.com/user-attachments/assets/f97911e6-3edb-4f4c-8e3d-23ba694899f2)
+  ![image](https://github.com/user-attachments/assets/c261bfd4-1099-4fd7-b82d-a2987c409767)
+
 
 
 ---
