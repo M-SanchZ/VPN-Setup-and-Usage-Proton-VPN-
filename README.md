@@ -56,6 +56,8 @@ Before starting, make sure you have:
 ### 1.5 Browse to WhatIsMyIP on the VM
 1. Once logged into the VM, open a web browser inside the VM and go to [https://whatismyipaddress.com/](https://whatismyipaddress.com/).
 2. Note the public IP address displayed here. Copy it and save it in the same text file used earlier for comparison.
+   ![image](https://github.com/user-attachments/assets/68e30a44-27e3-44c6-b741-6ea294361d10)
+
 
 ---
 
