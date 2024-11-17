@@ -128,6 +128,12 @@ Before starting, make sure you have:
 2. Note any differences you observe in the website’s language, layout, or URL based on the location of the VPN server. For example:
    - You may be redirected to a **localized version** of Google (e.g., google.jp if you’re connected to a Japanese server).
    - The language of the website may automatically change to the country’s native language (e.g., Japanese, French, etc.).
+     ![image](https://github.com/user-attachments/assets/00cada41-991f-42d6-a2d7-8dd6d48258cf)
+     ![image](https://github.com/user-attachments/assets/0c05a541-0106-4ba9-b545-f121494c8b62)
+     ![image](https://github.com/user-attachments/assets/d6c5dbb8-b82f-4323-9345-7dd23df9467c)
+
+
+
 
 ---
 
