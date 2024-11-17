@@ -105,13 +105,19 @@ Before starting, make sure you have:
 
 
 
-
-
-
 ### 2.4 Browse to WhatIsMyIP on the VM (While Connected to the VPN)
 1. With ProtonVPN connected, open a web browser in the VM and visit [https://whatismyipaddress.com/](https://whatismyipaddress.com/).
 2. Take note of the new public IP address, which should reflect the location of the VPN server you connected to (e.g., Japan).
 3. Save this IP address in the same text file for later comparison.
+   <h2> Previous IPv4 Address</h2>
+
+    ![image](https://github.com/user-attachments/assets/ce69d9e9-c0e1-48fa-815c-c6b930f690d7)
+   
+
+
+   <h2> New IPv4 Address after using VPN</h2>
+
+   ![image](https://github.com/user-attachments/assets/fc6e2324-e1e0-4cdc-92f5-9c45caeb8841)
 
 ### 2.5 Test Browsing Behavior with the VPN
 1. Try visiting websites like [Google](https://www.google.com/), [Disney](https://www.disney.com/), or [Amazon](https://www.amazon.com/) while connected to the VPN.
