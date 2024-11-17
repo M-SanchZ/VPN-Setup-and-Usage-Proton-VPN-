@@ -91,6 +91,12 @@ Before starting, make sure you have:
 1. Open ProtonVPN and log in with the credentials you created in Step 2.1.
 2. Choose a VPN server located in a different country, such as Japan.
 3. Click **Connect** to establish the VPN connection.
+   ![image](https://github.com/user-attachments/assets/a021956b-a13c-4e1a-831a-de5c43cd8fc6)
+   ![image](https://github.com/user-attachments/assets/1408006c-21b1-4337-8e68-03e55d0ad777)
+   ![image](https://github.com/user-attachments/assets/1e578fbd-ed66-48bd-bdcd-c99124a50ea7)
+
+
+
 
 ### 2.4 Browse to WhatIsMyIP on the VM (While Connected to the VPN)
 1. With ProtonVPN connected, open a web browser in the VM and visit [https://whatismyipaddress.com/](https://whatismyipaddress.com/).
