@@ -109,12 +109,12 @@ Before starting, make sure you have:
 1. With ProtonVPN connected, open a web browser in the VM and visit [https://whatismyipaddress.com/](https://whatismyipaddress.com/).
 2. Take note of the new public IP address, which should reflect the location of the VPN server you connected to (e.g., Japan).
 3. Save this IP address in the same text file for later comparison.
-   <h2> Previous IPv4 Address</h2>
+   <h2> Previous VM'S: IPv4 Address</h2>
 
     ![image](https://github.com/user-attachments/assets/68e30a44-27e3-44c6-b741-6ea294361d10)  
 
 
-   <h2> New IPv4 Address after using VPN</h2>
+   <h2> New VM'S: IPv4 Address after using VPN</h2>
 
    ![image](https://github.com/user-attachments/assets/fc6e2324-e1e0-4cdc-92f5-9c45caeb8841)
 
