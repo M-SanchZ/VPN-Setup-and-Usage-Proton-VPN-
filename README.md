@@ -10,6 +10,10 @@ Before starting, make sure you have:
 - A ProtonVPN account (Sign up for the free version at [ProtonVPN](https://account.protonvpn.com/signup?plan=free&language=en)).
   ![image](https://github.com/user-attachments/assets/f97911e6-3edb-4f4c-8e3d-23ba694899f2)
   ![image](https://github.com/user-attachments/assets/c261bfd4-1099-4fd7-b82d-a2987c409767)
+  ![image](https://github.com/user-attachments/assets/f32166d0-0d25-45a7-80c9-864ec8f88983)
+  ![image](https://github.com/user-attachments/assets/ce69d9e9-c0e1-48fa-815c-c6b930f690d7)
+
+
 
 
 
@@ -20,6 +24,8 @@ Before starting, make sure you have:
 ### 1.1 Browse to WhatIsMyIP on Your Local Machine
 1. Open your web browser on your local machine (the one you are physically using) and go to [https://whatismyipaddress.com/](https://whatismyipaddress.com/).
 2. Take note of the public IP address displayed on the page. Copy it and save it to a text file for later comparison.
+   ![image](https://github.com/user-attachments/assets/e64c7ad1-fda9-411b-a097-6362ee1ee399)
+
 
 ### 1.2 Create a Resource Group
 1. Sign in to the [Azure Portal](https://portal.azure.com/).
