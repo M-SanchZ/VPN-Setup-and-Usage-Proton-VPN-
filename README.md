@@ -99,7 +99,7 @@ By following these steps, you now have a practical understanding of managing res
 
 ---
 
-Feel free to **fork** this repository and add your own experiences or improvements!
+
 
 
 
