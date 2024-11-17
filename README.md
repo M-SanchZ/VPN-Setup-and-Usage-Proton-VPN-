@@ -67,11 +67,17 @@ Before starting, make sure you have:
 1. Visit [ProtonVPN Signup](https://account.protonvpn.com/signup?plan=free&language=en) on your local machine.
 2. Follow the instructions to sign up for a free ProtonVPN account.
 3. Once signed up, note your credentials (username and password) for logging in.
+   ![image](https://github.com/user-attachments/assets/c20e3164-1c59-4a08-acba-845b87f3ad9f)
+
 
 ### 2.2 Download and Install ProtonVPN on the Virtual Machine
 1. On your VM, open a web browser and visit [ProtonVPN Downloads](https://protonvpn.com/download).
 2. Download and install the ProtonVPN client for **Windows**.
 3. After installation, launch ProtonVPN on the VM.
+   ![image](https://github.com/user-attachments/assets/1020a32f-7f04-419b-81c0-dce34c497f71)
+   ![image](https://github.com/user-attachments/assets/3b5a5620-e7bd-4973-915b-e41c618db0a1)
+
+
 
 ### 2.3 Log In and Connect to a VPN Server in a Different Country
 1. Open ProtonVPN and log in with the credentials you created in Step 2.1.
