@@ -99,7 +99,9 @@ Before starting, make sure you have:
    ![image](https://github.com/user-attachments/assets/1408006c-21b1-4337-8e68-03e55d0ad777)
    ![image](https://github.com/user-attachments/assets/7a2416bc-01cc-4057-ac2b-612aa3fb1ccb)
    ![image](https://github.com/user-attachments/assets/9221ef2a-fb03-4311-9954-bfcfd87b8c0f)
-   ![image](https://github.com/user-attachments/assets/fcc10689-6ee6-444a-b997-a10327b028ad)
+   ![image](https://github.com/user-attachments/assets/e72846e7-b954-4e55-9907-35810c18e351)
+
+  
 
 
 
