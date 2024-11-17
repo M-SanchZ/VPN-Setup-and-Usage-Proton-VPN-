@@ -146,7 +146,7 @@ In this tutorial, you have:
 - Used ProtonVPN to connect to a server in another country and tested website behavior based on your VPN location.
 - Cleaned up your Azure resources to avoid ongoing charges.
 
-By following these steps, you now have a practical understanding of managing resources in Azure and using a VPN for testing geographical variations in browsing behavior.
+By following these steps, you now have a practical understanding of managing resources in Azure and using a VPN for testing geographical variations in browsing behavior. 
 
 ---
 
