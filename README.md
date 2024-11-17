@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/8653a0cb-e838-4d5d-88a4-5a23e613dbf6)
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>VPN Setp and Uasage</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
