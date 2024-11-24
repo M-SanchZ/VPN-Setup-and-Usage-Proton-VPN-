@@ -22,8 +22,8 @@ Before starting, make sure you have:
 
 ### 1.1 Browse to WhatIsMyIP on Your Local Machine
 1. Open your web browser on your local machine (the one you are physically using) and go to [https://whatismyipaddress.com/](https://whatismyipaddress.com/).
-2. Take note of the public IP address displayed on the page. Copy it and save it to a text file for later comparison.
- ![image](https://github.com/user-attachments/assets/9b383738-7bb1-440f-bfd0-a263411b3147)
+2. Take note of the public IP address displayed on the page. Copy it and save it to a text file for later comparison. This is my IPv4 address 
+![image](https://github.com/user-attachments/assets/186a00ca-8bcd-4aec-944a-c86be352b3a3)
 
 
 
